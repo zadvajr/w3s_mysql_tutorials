@@ -52,4 +52,6 @@ A column holds specific information about every record in the table.
 
 A record (or row) is each individual entry that exists in a table.
 
-Look at a selection from the Northwind "Customers" table:
+## What is a Relational Database?
+
+A relational database defines database relationships in the form of tables. The tables are related to each other - based on data common to each.
