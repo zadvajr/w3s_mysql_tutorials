@@ -18,3 +18,9 @@ MySQL is a widely used Relational Database Management Systems (RDBMS).
 - MySQL was first released in 1995
 - MySQL is developed, distributed, and supported by Oracle Corporation
 - MySQL is named after co-founder Ulf Michael "Monty" Widenius's daughter: My
+
+## Who Uses MySQL?
+
+- Huge websites like Facebook, Twitter, Airbnb, Booking.com, Uber, GitHub, YouTube, etc.
+- Content Management Systems like WordPress, Drupal, Joomla!, Contao, etc.
+- A very large number of web developers around the world
