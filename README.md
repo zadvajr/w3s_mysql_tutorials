@@ -1,2 +1,2 @@
-# w3s_mysql_tutorials
-W3Schools Tutorials - MySQL
+# W3Schools MySQL Tutorials
+This is my W3Schools Tutorials for MySQL
