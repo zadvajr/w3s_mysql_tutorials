@@ -24,3 +24,12 @@ MySQL is a widely used Relational Database Management Systems (RDBMS).
 - Huge websites like Facebook, Twitter, Airbnb, Booking.com, Uber, GitHub, YouTube, etc.
 - Content Management Systems like WordPress, Drupal, Joomla!, Contao, etc.
 - A very large number of web developers around the world
+
+## Show Data On Your Web Site
+
+To build a web site that shows data from a database, you will need:
+
+- An RDBMS database program (like MySQL)
+- A server-side scripting language, like PHP
+- To use SQL to get the data you want
+- To use HTML / CSS to style the page
