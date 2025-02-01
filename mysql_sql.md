@@ -15,3 +15,15 @@ Example
 ```sql
 SELECT * FROM Customers;
 ```
+
+SQL keywords are NOT case sensitive: select is the same as SELECT
+In this tutorial we will write all SQL keywords in upper-case.
+
+## Semicolon after SQL Statements?
+
+Some database systems require a semicolon at the end of each SQL statement.
+
+Semicolon is the standard way to separate each SQL statement in database systems that allow more than one SQL statement to be executed in the same call to the server.
+
+In this tutorial, we will use semicolon at the end of each SQL statement.
+
