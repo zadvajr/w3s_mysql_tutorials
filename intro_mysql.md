@@ -33,3 +33,14 @@ To build a web site that shows data from a database, you will need:
 - A server-side scripting language, like PHP
 - To use SQL to get the data you want
 - To use HTML / CSS to style the page
+
+## What is RDBMS?
+
+RDBMS stands for Relational Database Management System.
+
+RDBMS is a program used to maintain a relational database.
+
+RDBMS is the basis for all modern database systems such as MySQL, Microsoft SQL Server, Oracle, and Microsoft Access.
+
+RDBMS uses SQL queries to access the data in the database.
+
